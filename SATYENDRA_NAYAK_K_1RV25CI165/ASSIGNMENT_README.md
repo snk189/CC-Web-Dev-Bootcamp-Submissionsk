@@ -67,9 +67,9 @@ Use an arrow function inside `.map()` to take an array of numbers `[1, 2, 3, 4, 
 ---
 
 ## ✅ Checklist
-- [ ] `task1.js` — regular function
-- [ ] `task2.js` — arrow function + add
-- [ ] `task3.js` — arrow function with `.map()`
+- [x] `task1.js` — regular function
+- [x] `task2.js` — arrow function + add
+- [x] `task3.js` — arrow function with `.map()`
 
 ---
 ---
